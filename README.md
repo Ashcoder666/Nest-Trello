@@ -1,4 +1,4 @@
-# NestJS Task Management App
+# NestJS Trello Lite
 
 A collaborative task management application built with **NestJS**, covering a wide range of features including authentication, authorization, validation, error handling, logging, WebSockets, and more. This project is designed to help you learn **all core concepts of NestJS** at a basic-to-intermediate level.
 
